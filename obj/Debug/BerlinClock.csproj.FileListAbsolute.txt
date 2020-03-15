@@ -1,0 +1,14 @@
+C:\Users\win10\Downloads\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+C:\Users\win10\Downloads\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+C:\Users\win10\Downloads\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+C:\Users\win10\Downloads\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\win10\Downloads\DotNetBerlinClock-master\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\win10\Downloads\DotNetBerlinClock-master\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+C:\Users\win10\Downloads\DotNetBerlinClock-master\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
+C:\Users\win10\Downloads\BerlinClock\BerlinClock\bin\Debug\BerlinClock.dll.config
+C:\Users\win10\Downloads\BerlinClock\BerlinClock\bin\Debug\BerlinClock.dll
+C:\Users\win10\Downloads\BerlinClock\BerlinClock\bin\Debug\BerlinClock.pdb
+C:\Users\win10\Downloads\BerlinClock\BerlinClock\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\win10\Downloads\BerlinClock\BerlinClock\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\win10\Downloads\BerlinClock\BerlinClock\obj\Debug\BerlinClock.dll
+C:\Users\win10\Downloads\BerlinClock\BerlinClock\obj\Debug\BerlinClock.pdb
